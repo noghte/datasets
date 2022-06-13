@@ -18,7 +18,7 @@
 ### Info
 
 - Source: https://data.gov.sg/dataset/resale-flat-prices
-- Metadata: [metadata-resale-flat-prices](metadata-resale-flat-prices.txt)
+- Metadata: [metadata-resale-flat-prices](singapore-flat-proces/metadata-resale-flat-prices.txt)
 - Last updated	June 13, 2022
 - Created	July 28, 2021
 - Format	CSV
