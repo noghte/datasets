@@ -25,4 +25,4 @@
 - Coverage	January 1, 2017 to June 12, 2022
 - Licence	Singapore Open Data Licence
 
-- Raw CSV for Jan. 2017 onward: https://github.com/noghte/datasets/blob/main/singapore-flat-prices/resale-flat-prices-based-on-registration-date-from-jan-2017-onwards.csv?raw=true
+- Raw CSV for Jan. 2017 onward: https://github.com/noghte/datasets/raw/main/singapore-flat-prices/resale-flat-prices-based-on-registration-date-from-jan-2017-onwards.csv
