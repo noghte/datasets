@@ -1,4 +1,4 @@
-RowNumber,Year,City,Country,participants
+rowid,year,city,country,participants
 107,2022,Montreal,Canada,859 
 106,2021,Internet,Internet,251
 105,2020,Internet,Internet,824
