@@ -1,4 +1,4 @@
-﻿RowNumber,Year,City,Country,participants
+RowNumber,Year,City,Country,participants
 107,2022,Montreal,Canada,859 
 106,2021,Internet,Internet,251
 105,2020,Internet,Internet,824
@@ -96,7 +96,6 @@
 13,1921,Prague,Czechoslovakia,2561
 12,1920,The Hague,Netherlands,408
 11,1915,San Francisco,United States,163
-10,1914,Paris,France,cancelled due
 9,1913,Bern,Switzerland,1203
 8,1912,Kraków,Austria-Hungary,1000
 7,1911,Antwerp,Belgium,1800
